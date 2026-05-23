@@ -1,6 +1,0 @@
-{
-  "name": "Funkify Streetwear",
-  "description": "A premium Gen-Z streetwear brand from Jaipur crafting moodwear for overthinkers with instant WhatsApp order styling.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
